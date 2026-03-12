@@ -18,7 +18,7 @@
 - `2024-07-25`[推薦系統算法：監督式學習、分群和相似度](https://karenkaods.medium.com/推薦系統算法-監督式學習-分群和相似度-3b37418a834c)
 - `2024-07-24`[【邁向圖神經網絡GNN】Part4: 實作圖神經網路訊息傳遞機制](https://karenkaods.medium.com/邁向圖神經網絡gnn-part4-實作圖神經網路訊息傳遞機制-2c210910b761)
 - `2024-07-24`[【邁向圖神經網絡GNN】Part3: 圖神經網絡的核心-訊息傳遞機制](https://karenkaods.medium.com/邁向圖神經網絡gnn-part3-圖神經網絡的核心-消息傳遞機制-b3981892b8f3)
--`2024-07-23`[【邁向圖神經網絡GNN】Part2: 使用PyTorch構建圖形結構的概念與實作](https://karenkaods.medium.com/邁向圖神經網絡gnn-part2-使用pytorch構建圖形結構的全過程-1c16bc7880a2)
+- `2024-07-23`[【邁向圖神經網絡GNN】Part2: 使用PyTorch構建圖形結構的概念與實作](https://karenkaods.medium.com/邁向圖神經網絡gnn-part2-使用pytorch構建圖形結構的全過程-1c16bc7880a2)
 - `2024-07-22`[【邁向圖神經網絡GNN】Part1:圖數據的基本元素與應用](https://karenkaods.medium.com/邁向圖神經網絡gnn-part1-圖數據的基本元素與應用-c3856a7f729d)
 - `2024-02-28` [【圖論Graph】Part3：最短路徑演算法 - Dijkstra 介紹與實作](https://medium.com/@karenkaods/圖論graph-part3-最短路徑演算法-dijkstra-介紹與實作-6db120c4255b)
 - `2024-02-27` [【圖論Graph】Part2：深入認識Graph的基本概念、組成和應用](https://medium.com/@karenkaods/圖論graph-part2-深入認識graph的基本概念-組成和應用-5b30919127cf)
