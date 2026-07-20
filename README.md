@@ -66,7 +66,7 @@
 
 ## 德國求職
 
--`2026-07-07`[德國求職中，我重新整理了一版 CV](https://medium.com/@karenkaods/%E5%BE%B7%E5%9C%8B%E6%B1%82%E8%81%B7%E5%BE%A9%E7%9B%A4-%E6%88%91%E5%A6%82%E4%BD%95%E8%AA%BF%E6%95%B4-cv-%E5%92%8C-linkedin-b4ac9fefc410)
+- `2026-07-07`[德國求職中，我重新整理了一版 CV](https://medium.com/@karenkaods/%E5%BE%B7%E5%9C%8B%E6%B1%82%E8%81%B7%E5%BE%A9%E7%9B%A4-%E6%88%91%E5%A6%82%E4%BD%95%E8%AA%BF%E6%95%B4-cv-%E5%92%8C-linkedin-b4ac9fefc410)
 - `2026-07-05`[投遞 57 份履歷後，我做了一次德國求職複盤](https://medium.com/@karenkaods/%E6%8A%95%E9%81%9E-57-%E4%BB%BD%E5%B1%A5%E6%AD%B7%E5%BE%8C-%E6%88%91%E5%81%9A%E4%BA%86%E4%B8%80%E6%AC%A1%E5%BE%B7%E5%9C%8B%E6%B1%82%E8%81%B7%E8%A4%87%E7%9B%A4-1f2bc290b5fe?sharedUserId=karenkaods)
 
 
