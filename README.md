@@ -53,7 +53,7 @@
 
 ## 職涯、觀點與生活
 
-`2026-07-16`[AI 讓我產出更快，卻沒有讓我變強：我好像得了「GenAI 症候群」](https://medium.com/@karenkaods/ai-%E8%AE%93%E6%88%91%E7%94%A2%E5%87%BA%E6%9B%B4%E5%BF%AB-%E5%8D%BB%E6%B2%92%E6%9C%89%E8%AE%93%E6%88%91%E8%AE%8A%E5%BC%B7-%E6%88%91%E5%A5%BD%E5%83%8F%E5%BE%97%E4%BA%86-genai-%E7%97%87%E5%80%99%E7%BE%A4-a200e7427933)
+- `2026-07-16`[AI 讓我產出更快，卻沒有讓我變強：我好像得了「GenAI 症候群」](https://medium.com/@karenkaods/ai-%E8%AE%93%E6%88%91%E7%94%A2%E5%87%BA%E6%9B%B4%E5%BF%AB-%E5%8D%BB%E6%B2%92%E6%9C%89%E8%AE%93%E6%88%91%E8%AE%8A%E5%BC%B7-%E6%88%91%E5%A5%BD%E5%83%8F%E5%BE%97%E4%BA%86-genai-%E7%97%87%E5%80%99%E7%BE%A4-a200e7427933)
 - `2025-11-27`[覺得根基不穩？從 CS50 再次找到基礎的力量](https://karenkaods.medium.com/覺得根基不穩-從-cs50-再次找到基礎的力量-7009ded15f0c)
 - `2025-11-13`[接手寫到一半的專案，我做的第一件事不是「coding」](https://karenkaods.medium.com/接手寫到一半的專案-我做的第一件事不是-coding-3e2260c3f006)
 - `2025-08-25`[我的 AI 教學初體驗：專注與分心、痛苦與快樂之間的反思](https://karenkaods.medium.com/我的-ai-教學初體驗-專注與分心-痛苦與快樂之間的反思-8f78546fd185)
