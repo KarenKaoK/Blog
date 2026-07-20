@@ -43,6 +43,7 @@
 
 ## Python 效能與工程實務
 
+- `2026-07-22`[我做了一個把 Google Sheet 預算自動推播到 Telegram 的小工具](https://medium.com/@karenkaods/%E6%88%91%E5%81%9A%E4%BA%86%E4%B8%80%E5%80%8B%E6%8A%8A-google-sheet-%E9%A0%90%E7%AE%97%E8%87%AA%E5%8B%95%E6%8E%A8%E6%92%AD%E5%88%B0-telegram-%E7%9A%84%E5%B0%8F%E5%B7%A5%E5%85%B7-6fcc22ca22cd)
 - `2024-03-28`[初探 Kafka：理解其特點、通訊模式與應用場景](https://karenkaods.medium.com/初探-kafka-理解其特點-通訊模式與應用場景-3276b4bd2ba3)
 - `2024-01-29` [解決 NVIDIA GPU 驅動 libnvidia-ml.so 錯誤訊息](https://medium.com/@karenkaods/解決-nvidia-gpu-驅動-libnvidia-ml-so-錯誤訊息-cf2cea19f9b9)
 - `2023-08-25` [大幅提升執行效率：解析Python多執行緒和多進程的效能差異與使用情境](https://medium.com/@karenkaods/大幅提升執行效率-解析python多執行緒和多進程的效能差異與使用情境-b266b1e857f7)
@@ -52,6 +53,7 @@
 
 ## 職涯、觀點與生活
 
+`2026-07-16`[AI 讓我產出更快，卻沒有讓我變強：我好像得了「GenAI 症候群」](https://medium.com/@karenkaods/ai-%E8%AE%93%E6%88%91%E7%94%A2%E5%87%BA%E6%9B%B4%E5%BF%AB-%E5%8D%BB%E6%B2%92%E6%9C%89%E8%AE%93%E6%88%91%E8%AE%8A%E5%BC%B7-%E6%88%91%E5%A5%BD%E5%83%8F%E5%BE%97%E4%BA%86-genai-%E7%97%87%E5%80%99%E7%BE%A4-a200e7427933)
 - `2025-11-27`[覺得根基不穩？從 CS50 再次找到基礎的力量](https://karenkaods.medium.com/覺得根基不穩-從-cs50-再次找到基礎的力量-7009ded15f0c)
 - `2025-11-13`[接手寫到一半的專案，我做的第一件事不是「coding」](https://karenkaods.medium.com/接手寫到一半的專案-我做的第一件事不是-coding-3e2260c3f006)
 - `2025-08-25`[我的 AI 教學初體驗：專注與分心、痛苦與快樂之間的反思](https://karenkaods.medium.com/我的-ai-教學初體驗-專注與分心-痛苦與快樂之間的反思-8f78546fd185)
@@ -62,9 +64,23 @@
 - `2023-09-16` [最近的生活反思: 工作的熱情與挑戰](https://medium.com/@karenkaods/最近的生活反思-工作的熱情與挑戰-831c23cc4e6a)
 - `2023-09-16` [尋找工作與生活的平衡：一個有意義的人生之旅](https://medium.com/@karenkaods/尋找工作與生活的平衡-一個有意義的人生之旅-65660aa41e69)
 
+## 德國求職
+
+-`2026-07-07`[德國求職中，我重新整理了一版 CV](https://medium.com/@karenkaods/%E5%BE%B7%E5%9C%8B%E6%B1%82%E8%81%B7%E5%BE%A9%E7%9B%A4-%E6%88%91%E5%A6%82%E4%BD%95%E8%AA%BF%E6%95%B4-cv-%E5%92%8C-linkedin-b4ac9fefc410)
+- `2026-07-05`[投遞 57 份履歷後，我做了一次德國求職複盤](https://medium.com/@karenkaods/%E6%8A%95%E9%81%9E-57-%E4%BB%BD%E5%B1%A5%E6%AD%B7%E5%BE%8C-%E6%88%91%E5%81%9A%E4%BA%86%E4%B8%80%E6%AC%A1%E5%BE%B7%E5%9C%8B%E6%B1%82%E8%81%B7%E8%A4%87%E7%9B%A4-1f2bc290b5fe?sharedUserId=karenkaods)
+
+
 ---
 
 # Archive
+
+`2026-07-16`[AI 讓我產出更快，卻沒有讓我變強：我好像得了「GenAI 症候群」](https://medium.com/@karenkaods/ai-%E8%AE%93%E6%88%91%E7%94%A2%E5%87%BA%E6%9B%B4%E5%BF%AB-%E5%8D%BB%E6%B2%92%E6%9C%89%E8%AE%93%E6%88%91%E8%AE%8A%E5%BC%B7-%E6%88%91%E5%A5%BD%E5%83%8F%E5%BE%97%E4%BA%86-genai-%E7%97%87%E5%80%99%E7%BE%A4-a200e7427933)
+
+`2026-07-07`[德國求職中，我重新整理了一版 CV](https://medium.com/@karenkaods/%E5%BE%B7%E5%9C%8B%E6%B1%82%E8%81%B7%E5%BE%A9%E7%9B%A4-%E6%88%91%E5%A6%82%E4%BD%95%E8%AA%BF%E6%95%B4-cv-%E5%92%8C-linkedin-b4ac9fefc410)
+
+`2026-06-22`[我做了一個把 Google Sheet 預算自動推播到 Telegram 的小工具](https://medium.com/@karenkaods/%E6%88%91%E5%81%9A%E4%BA%86%E4%B8%80%E5%80%8B%E6%8A%8A-google-sheet-%E9%A0%90%E7%AE%97%E8%87%AA%E5%8B%95%E6%8E%A8%E6%92%AD%E5%88%B0-telegram-%E7%9A%84%E5%B0%8F%E5%B7%A5%E5%85%B7-6fcc22ca22cd)
+
+`2026-06-05`[投遞 57 份履歷後，我做了一次德國求職複盤](https://medium.com/@karenkaods/%E6%8A%95%E9%81%9E-57-%E4%BB%BD%E5%B1%A5%E6%AD%B7%E5%BE%8C-%E6%88%91%E5%81%9A%E4%BA%86%E4%B8%80%E6%AC%A1%E5%BE%B7%E5%9C%8B%E6%B1%82%E8%81%B7%E8%A4%87%E7%9B%A4-1f2bc290b5fe?sharedUserId=karenkaods)
 
 `2025-11-27`[覺得根基不穩？從 CS50 再次找到基礎的力量](https://karenkaods.medium.com/覺得根基不穩-從-cs50-再次找到基礎的力量-7009ded15f0c)
 
